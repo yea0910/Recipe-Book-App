@@ -10,7 +10,7 @@ A simple, user-friendly desktop application built with Python's tkinter library 
 - User-friendly interface using Tkinter widgets
 ---
 ## UI design
-Built with colorful buttons and a clear layout using Tkinter widgets.\
+Built with colorful buttons and a clear layout using Tkinter widgets.
 ### Before adding a recipe:
 ![Screenshot 2025-04-11 170602](https://github.com/user-attachments/assets/d704aa2f-b124-4b3c-90c8-d06d3230676d)
 
